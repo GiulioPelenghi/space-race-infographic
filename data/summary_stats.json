@@ -1,0 +1,36 @@
+{
+  "total_launches": 7393,
+  "start_year": 1957,
+  "end_year": 2026,
+  "latest_cutoff": "2026-09-06",
+  "type_totals": {
+    "state": 5393,
+    "private": 2000
+  },
+  "outcome_totals": {
+    "O": 6869,
+    "F": 524
+  },
+  "provider_totals": {
+    "USSR": 2456,
+    "United States": 1188,
+    "Russia": 747,
+    "SpaceX": 713,
+    "China": 696,
+    "Arianespace": 306,
+    "US Heritage Commercial": 287,
+    "International Commercial": 282,
+    "ULA": 174,
+    "India": 99,
+    "China Commercial": 94,
+    "Japan": 92,
+    "Rocket Lab": 86,
+    "Other States": 68,
+    "Europe": 47,
+    "Other Commercial": 32,
+    "US New Commercial": 26
+  },
+  "spacex_total": 713,
+  "china_commercial_total": 94,
+  "rocket_lab_total": 86
+}
